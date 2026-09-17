@@ -1,0 +1,21 @@
+{
+	"name": "adfgithubriz",
+	"properties": {
+		"globalParameters": {
+			"adfglopara": {
+				"type": "string",
+				"value": "https://sarizdgde1.dfs.core.windows.net/"
+			}
+		},
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5c0e129c-85bd-489f-9ada-4f4533f9624c",
+		"tenantId": "2a7948c9-5eda-4c04-9097-27ff0cf7e8b6"
+	}
+}
