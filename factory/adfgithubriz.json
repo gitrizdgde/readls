@@ -1,6 +1,12 @@
 {
 	"name": "adfgithubriz",
 	"properties": {
+		"globalParameters": {
+			"adfglopara": {
+				"type": "string",
+				"value": "https://sarizdgde1.dfs.core.windows.net/"
+			}
+		},
 		"trustModeClaimForMi": {
 			"value": "Disabled",
 			"editable": true
